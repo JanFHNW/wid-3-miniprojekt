@@ -1,0 +1,25 @@
+.App {
+    display: flex;
+    flex-direction: row;
+    background-color: Black;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.flex-item {
+    display: flex;
+    flex-direction: row;
+    background-color: #007bff;
+    color: white;
+
+}
+
+.Anzeige {
+
+
+    color: Black;
+
+}
